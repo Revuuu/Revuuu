@@ -15,7 +15,29 @@
 - 💬 Ask me about **Laravel, PHP**
 
 - 📫 How to reach me **jermainealee@gmail.com**
+<h3 align="left">Connect with me:</h3>
 
+<p align="center">
+  <a href="https://github.com/Revuuu">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/>
+  </a>
+
+  <a href="https://linkedin.com/in/jermaine-lee-1a471a270">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  </a>
+
+  <a href="https://fb.com/Jermaine Lee">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
+  </a>
+
+  <a href="https://instagram.com/jermaine.leeee">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+  </a>
+
+  <a href="https://twitter.com/JermaineLeeee">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
+  </a>
+</p>
 <h3 align="left">Languages and Tools:</h3>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
