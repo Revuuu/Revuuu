@@ -17,35 +17,20 @@
 - 📫 How to reach me **jermainealee@gmail.com**
 <h3 align="left">Connect with me:</h3>
 
-<table>
-  <tr>
+<h3 align="left">Connect with me:</h3>
 
-    <td>
-      <a href="https://linkedin.com/in/jermaine-lee-1a471a270" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-      </a>
-    </td>
-
-    <td>
-      <a href="https://fb.com/Jermaine Lee" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
-      </a>
-    </td>
-
-    <td>
-      <a href="https://instagram.com/jermaine.leeee" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-      </a>
-    </td>
-
-    <td>
-      <a href="https://twitter.com/JermaineLeeee" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
-      </a>
-    </td>
-
-  </tr>
-</table>
+<a href="https://linkedin.com/in/jermaine-lee-1a471a270" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+<a href="https://fb.com/Jermaine%20Lee" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
+</a>
+<a href="https://instagram.com/jermaine.leeee" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+</a>
+<a href="https://twitter.com/JermaineLeeee" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
+</a>
 <h3 align="left">Languages and Tools:</h3>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
