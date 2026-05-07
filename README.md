@@ -3,7 +3,6 @@
 
 ### A passionate developer focused on learning web and mobile programming
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Revuuu&label=Profile views&color=0e75b6&style=flat" alt="Revuuu" /> </p>
 
 - 🔭 I'm currently working on **Laravel projects**
 
