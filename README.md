@@ -16,15 +16,81 @@
 
 - 📫 How to reach me **jermainealee@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://github.com/Revuuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Revuuu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jermaine-lee-1a471a270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jermaine-lee-1a471a270" height="30" width="40" /></a>
-<a href="https://fb.com/Jermaine Lee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Jermaine Lee" height="30" width="40" /></a>
-<a href="https://instagram.com/jermaine.leeee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jermaine.leeee" height="30" width="40" /></a>
-<a href="https://twitter.com/JermaineLeeee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="JermaineLeeee" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap">
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="40" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/dart">
+    <img src="https://skillicons.dev/icons?i=dart" width="40" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/firebase">
+    <img src="https://skillicons.dev/icons?i=firebase" width="40" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/flutter">
+    <img src="https://skillicons.dev/icons?i=flutter" width="40" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/git">
+    <img src="https://skillicons.dev/icons?i=git" width="40" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/java">
+    <img src="https://skillicons.dev/icons?i=java" width="40" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
+    <img src="https://skillicons.dev/icons?i=js" width="40" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/laravel">
+    <img src="https://skillicons.dev/icons?i=laravel" width="40" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/mysql">
+    <img src="https://skillicons.dev/icons?i=mysql" width="40" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="40" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/php">
+    <img src="https://skillicons.dev/icons?i=php" width="40" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql">
+    <img src="https://skillicons.dev/icons?i=postgres" width="40" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/postman">
+    <img src="https://skillicons.dev/icons?i=postman" width="40" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/python">
+    <img src="https://skillicons.dev/icons?i=py" width="40" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/react">
+    <img src="https://skillicons.dev/icons?i=react" width="40" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite">
+    <img src="https://skillicons.dev/icons?i=sqlite" width="40" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="40" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/typescript">
+    <img src="https://skillicons.dev/icons?i=ts" width="40" />
+  </a>
+
+</div>
 
