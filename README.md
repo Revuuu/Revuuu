@@ -19,11 +19,6 @@
 
 <table>
   <tr>
-    <td>
-      <a href="https://github.com/Revuuu" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/>
-      </a>
-    </td>
 
     <td>
       <a href="https://linkedin.com/in/jermaine-lee-1a471a270" target="_blank">
@@ -48,6 +43,7 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
       </a>
     </td>
+
   </tr>
 </table>
 <h3 align="left">Languages and Tools:</h3>
